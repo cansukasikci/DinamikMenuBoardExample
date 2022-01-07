@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "product_name": "Whopper",
+        "product_type": "Hamburger",
+        "price": 30.0,
+        "image-url": "iamge/url",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, qui reiciendis. Saepe cupiditate fugiat rerum deserunt corporis, perspiciatis totam at?"
+    },
+    {
+        "id": 2,
+        "product_name": "Whopper",
+        "product_type": "Hamburger",
+        "price": 30.0,
+        "image-url": "iamge/url",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, qui reiciendis. Saepe cupiditate fugiat rerum deserunt corporis, perspiciatis totam at?"
+    },
+    {
+        "id": 3,
+        "product_name": "Whopper",
+        "product_type": "Hamburger",
+        "price": 30.0,
+        "image-url": "iamge/url",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, qui reiciendis. Saepe cupiditate fugiat rerum deserunt corporis, perspiciatis totam at?"
+    },
+    {
+        "id": 4,
+        "product_name": "Çıtır Pizza",
+        "product_type": "Pizza",
+        "price": 42.0,
+        "image-url": "iamge/url",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, qui reiciendis. Saepe cupiditate fugiat rerum deserunt corporis, perspiciatis totam at?"
+    }
+]
